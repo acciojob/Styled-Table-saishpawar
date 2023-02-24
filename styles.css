@@ -1,1 +1,18 @@
 /* your code */
+table{
+	border: 2px solid red;
+	 border-spacing: 0 15px;
+	
+}
+th,td,tr{
+	text-align: center;
+/* 	border:2px solid yellow */
+}
+
+.head{
+	background-color:dodgerblue;
+	color:white;
+}
+.r1{
+	background-color:grey;
+}
